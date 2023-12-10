@@ -1,0 +1,43 @@
+    [
+        {
+        "id": 1,
+        "cover": "https://i.ibb.co/xLF462G/1.jpg",
+        "title": "The Enigmatic Echo",
+        "author": "Penelope Quill",
+        "author_img": "https://i.ibb.co/55j4CYc/boy1.png",
+        "posted_date": "2023-04-15",
+        "reading_time": 88,
+        "hashtags": ["#Mystery", "#Suspense", "#Thriller"]
+        },
+        {
+        "id": 2,
+        "cover": "https://i.ibb.co/4fGmfLq/2.png",
+        "title": "Celestial Chronicles",
+        "author": "Orion Stardust",
+        "author_img": "https://i.ibb.co/gVD1xvs/boy2.jpg",
+        "posted_date": "2023-05-22",
+        "reading_time": 98,
+        "hashtags": ["#SciFi", "#Fantasy", "#Adventure"]
+        },
+        {
+        "id": 3,
+        "cover": "https://i.ibb.co/FnBhyDK/3.png",
+        "title": "Whimsical Wonders",
+        "author": "Seraphina Dreamweaver",
+        "author_img": "https://i.ibb.co/w6wzM0h/girl1.jpg",
+        "posted_date": "2023-06-10",
+        "reading_time": 112,
+        "hashtags": ["#Fantasy", "#Magic", "#Adventure"]
+        },
+        {
+        "id": 4,
+        "cover": "https://i.ibb.co/cCbQ9x0/4.jpg",
+        "title": "Quantum Quotients",
+        "author": "Dr. Aiden Cipher",
+        "author_img": "https://i.ibb.co/H7NBWth/girl2.jpg",
+        "posted_date": "2023-07-03",
+        "reading_time": 20,
+        "hashtags": ["#Science", "#Technology", "#Philosophy"]
+        }
+    ]
+    
