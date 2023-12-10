@@ -1,7 +1,7 @@
     [
         {
         "id": 1,
-        "cover": "https://i.ibb.co/xLF462G/1.jpg",
+        "cover_img": "https://i.ibb.co/xLF462G/1.jpg",
         "title": "The Enigmatic Echo",
         "author": "Penelope Quill",
         "author_img": "https://i.ibb.co/55j4CYc/boy1.png",
@@ -11,7 +11,7 @@
         },
         {
         "id": 2,
-        "cover": "https://i.ibb.co/4fGmfLq/2.png",
+        "cover_img": "https://i.ibb.co/4fGmfLq/2.png",
         "title": "Celestial Chronicles",
         "author": "Orion Stardust",
         "author_img": "https://i.ibb.co/gVD1xvs/boy2.jpg",
@@ -21,7 +21,7 @@
         },
         {
         "id": 3,
-        "cover": "https://i.ibb.co/FnBhyDK/3.png",
+        "cover_img": "https://i.ibb.co/FnBhyDK/3.png",
         "title": "Whimsical Wonders",
         "author": "Seraphina Dreamweaver",
         "author_img": "https://i.ibb.co/w6wzM0h/girl1.jpg",
@@ -31,7 +31,7 @@
         },
         {
         "id": 4,
-        "cover": "https://i.ibb.co/cCbQ9x0/4.jpg",
+        "cover_img": "https://i.ibb.co/cCbQ9x0/4.jpg",
         "title": "Quantum Quotients",
         "author": "Dr. Aiden Cipher",
         "author_img": "https://i.ibb.co/H7NBWth/girl2.jpg",
